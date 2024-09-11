@@ -5,7 +5,7 @@ using System;
 
 public class Elevator : MonoBehaviour
 { //I had no time to finish this :(
-
+// great architecture and research around collections!!
     // Start is called before the first frame update
     void Start()
     {
